@@ -1,49 +1,36 @@
+<!-- 🌟 Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFC6&height=230&section=header&text=Pradeep%20Patra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=55" />
+</p>
+
 <!-- 🖋 Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Pradeep+Patra;MERN+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Pradeep+Patra;Aspiring+Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Open+Source+Enthusiast;Learning+by+Building+Every+Day" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Pradeep Patra</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradeep8118&label=Profile%20views&color=00FFC6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pradeep8118?label=Followers&style=social" alt="GitHub Followers" />
+Aspiring <b>Full-Stack Developer</b> specializing in the <b>MERN stack</b>, passionate about building scalable, user-focused web applications.  
+I believe in learning by building, collaborating, and solving real-world problems with clean and efficient code.
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Currently pursuing **MCA**
-- 💼 Skilled in **MERN Stack, Java, C, HTML/CSS, TailwindCSS**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 Reach me at: `pp8788022@gmail.com`
-- 🌱 Currently learning **Full Stack**
-- ⚡ Fun fact: I love solving problems and exploring tech
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 🌱 Currently learning **Advanced Full-Stack Development**
+- 💡 Strong foundation in **Java, C, and Web Technologies**
+- 🤝 Open to collaboration & open-source contributions
+- ⚡ Enjoys problem-solving and continuous learning
 
 ---
 
-### 🌐 Connect With Me
+<h2 align="center">💻 Languages & Tools</h2>
 
+<!-- Languages GIF -->
 <p align="center">
-  <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/pradeep50142678" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/pradeep8118" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
-
----
-
-### 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mysql,java,c,git,github,vscode" />
@@ -51,18 +38,38 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradeep8118&theme=radical&column=7&margin-w=15&margin-h=15" />
-</p>
-
-
-### 🔥 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep8118&theme=react-dark&area=true&color=00ffc6" width="100%" />
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/pradeep50142678" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Tech%20Updates-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:pp8788022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pradeep8118&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep8118&theme=react-dark&area=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Build consistently. Learn relentlessly. Grow professionally.”</i>
+</p>
