@@ -57,25 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pradeep8118&theme=radical&column=7&margin-w=15&margin-h=15" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep8118&show_icons=true&theme=radical&hide_border=false&title_color=00fff7&icon_color=00fff7&text_color=c0c0c0&bg_color=000000&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" width="46%" height="180px"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep8118&layout=compact&theme=radical&hide_border=false&title_color=00fff7&text_color=c0c0c0&bg_color=000000" width="46%" height="180px"/>
-</p>
-
----
-
-### 🌟 Contribution Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep8118&theme=radical&background=000000&ring=00fff7&fire=ff00c3&currStreakLabel=ffffff" width="95%" />
-</p>
-
----
 
 ### 🔥 GitHub Contribution Graph
 
